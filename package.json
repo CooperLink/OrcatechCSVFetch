@@ -1,0 +1,19 @@
+{
+  "name": "orcatech-application",
+  "version": "1.0.0",
+  "description": "Application to collect Orcatech API data",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "N/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
